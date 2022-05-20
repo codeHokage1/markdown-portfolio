@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Some of my favorite Basketballers:
+- Stephen Curry
+- Kyrie Irving
+- Jason Tatum
