@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+### Connect with me on [GitHub](https://github.com/codeHokage1) and [Twitter](https://twitter.com/sodiqfarhan)
