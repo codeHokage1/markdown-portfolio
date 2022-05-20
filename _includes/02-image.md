@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Farhan's Avatar](https://drive.google.com/file/d/1YoD6-ZuZkb8Hi1PgSE8EzHFWt5VNgb6a/view?usp=sharing)
